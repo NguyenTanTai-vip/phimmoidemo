@@ -1,3 +1,3 @@
 function xemPhim(tenPhim) {
-  alert("Chuẩn bị mở: " + tenPhim + " (giả lập nhé 🤡)");
+  alert("Web lỗi rồi, đ có phim cho coi đâu haha");
 }
